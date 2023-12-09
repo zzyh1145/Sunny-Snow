@@ -1,5 +1,6 @@
 # Sunny-Snow 晴雪
 是个浏览器起始页，也是个网站收集器
+
 如果你喜欢这个项目，欢迎对此项目提出宝贵建议
 ## 联系我
 Twitter <http://twitter.com/zzyh345>
